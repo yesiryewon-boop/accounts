@@ -1,0 +1,17 @@
+{
+  "name": "카드값 입금 계산기",
+  "short_name": "카드값",
+  "description": "카드 청구금액을 입력하면 은행별로 입금해 둘 금액을 계산합니다.",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f4f8",
+  "theme_color": "#1f4fd6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
